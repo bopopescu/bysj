@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load staticfiles %}
+ <head>
+  <meta charset="UTF-8" />
+  <title>实现自动补全</title>
+ </head>
+
+ <body>
+   <div>
+   <input type="text" name="name" list="datalist" class="inputtable" id="name" />
+       <datalist id="datalist">
+       </datalist>
+       <button>搜索</button>
+   </div>
+  <script src="{% static '/js/jquery-1.11.1.min.js'  %}"></script>
+  <script type="text/javascript" >
+     $(".inputtable").bind('input propertychange ', function(){
+        var searchText=$(this).val();
+        //如果当前搜索内容为空，无须进行查询
+        var temphtml = ""
+        $.ajax({
+            cache:false,
+            type:"get",
+            dataType:"json",
+            url:"/bid/searchsuggest.html?search="+searchText,
+            // data:"search="+searchText,
+            async:true,
+            dataType: 'json',
+            success: function(data){
+                 for(var i=0;i < data.length;i++){
+                     temphtml += '<option>'+data[i]+'</option>'
+                 }
+                 $("#datalist").html("")
+                 $("#datalist").append(temphtml)
+                if(data.length == 0){
+                     $("#datalist").hide()
+                }else {
+                    $("#datalist").show()
+                }
+		    }
+        });
+    });
+ </script>
+ </body>
+</html>

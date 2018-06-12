@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  {% load staticfiles %}
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>招标信息</title>
+  <meta name="description" content="Source code generated using layoutit.com" />
+  <meta name="author" content="LayoutIt!" />
+  <link rel="stylesheet" href="{% static '/css/bid.css' %} " />
+  <link rel="stylesheet" href="{% static '/bootstrap/css/bootstrap.min.css' %}" />
+  <script src="{% static '/bootstrap/js/bootstrap.min.js'  %}"></script>
+ </head>
+ <body>
+  <div class="row">
+   <div class="col-md-12">
+    <div class="navbar navbar-default" role="navigation" id="search-front">
+     <div class="navbar-header">
+      <a href="" class="navbar-brand">招标信息网</a> 　
+     </div>
+     <form action="" method = "post" class="navbar-form navbar-left" rol="search">
+      <div class="form-group">
+          <select class="form-control" name="province">
+              {% for prov in provinces %}
+              <option>
+                  {{ prov.province_name }}
+              </option>
+              {% endfor %}}
+          </select>
+          <select class="form-control" name="industry" value>
+              {% for indust in industrylist %}
+              <option>
+                  {{ indust.industry_name }}
+              </option>
+              {% endfor %}}
+          </select>
+          <span class="datetime">
+               <input type="date" class="form-control" id="starttime" name="starttime" value="{{starttime}}">
+               <span class="dateshow"> -- </span>
+               <input type="date" class="form-control" id="endtime" name="endtime" value="{{endtime}}">
+          </span>
+
+       <input type="text" class="form-control" id="inputtable" name="search" value="{{ key_word }}" list="datalist" />
+       <datalist id="datalist">
+       </datalist>
+      </div>
+      <button type="submit" class="btn btn-default">搜索</button>
+      <select class="form-control" id="subscribe">
+          <option>订阅</option>
+          <option>邮件</option>
+          <option>短信</option>
+      </select>
+      <button class="btn btn-default"><a href="/" class="logout">注销</a></button>
+     </form>
+
+    </div>
+    <div class="row">
+     <div class="col-md-8">
+      <span class="result">共找到{{ total_nums }}条数据</span>
+      <!--<span class="totalpage">共{{page_nums}}页</span>-->
+      <span class="last_seconds"> 共花费{{ last_seconds }}秒</span>
+      {% for item in all_hits %}
+         <div class="contentItem">
+          <h4>
+              <a href="/static/zbfile/{{ item.titleurl  }}.pdf">
+                     {% autoescape off %}{{ item.title }}{% endautoescape %}
+              </a>
+              <span class="score" >得分：{{ item.score }}</span>
+          </h4>
+          <p> {% autoescape off %} {{ item.content }} {% endautoescape %} </p>
+          <span class="f1">来源于：<a href="{{ item.url }}">{{ item.url }}</a></span>
+          <span calss="f2">发布时间：{{ item.publish_date }}</span>
+          <span class="f3">截止时间：{{item.dead_date}}</span>
+         </div>
+     {% endfor %}
+      <nav class="sortpage">
+       <ul class="pagination">
+        <li class="page-item"><span>共有{{ page_nums }}</span></li>
+        <li class="page-item"> <a class="page-link" href="?p={{page|add:-1}}&q={{ key_word }}">上一页</a> </li>
+        <li class="page-item"> <span >现在是{{page}}/{{ page_nums }}</span> </li>
+        <li class="page-item"> <a class="page-link" href="?p={{page|add:1}}&q={{ key_word }}">下一页</a> </li>
+       </ul>
+      </nav>
+     </div>
+     <div class="col-md-4">
+           <span class="hotsearch"> 热门搜索 </span>
+           <div class="hot-title">
+               <span>排名</span>
+                  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               <span>搜索指数</span></div>
+           <ul class="hot-search">
+           {% for top_words in topn_words %}
+               <li class="list-show"><a href="?p=1&q={{ top_words }}">{{ top_words }}</a></li>
+           {% endfor %}
+           </ul>
+          <button class="btn btn-default" id="trendfold">点击查看行业变化折线图</button>
+          <span class="show-img"></span>
+          <button class="btn btn-default" id="trendzhu">点击查看行业变化柱状图</button>
+          <span class="show-img2"></span>
+          <button class="btn btn-default" id="pdf">点击生成行业报表</button>
+          <span class="show-img3"></span>
+       <!--<img class="plt-img" style="display:none"/>-->
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="{% static '/js/jquery-1.11.1.min.js'  %}"></script>
+  <script src="{% static '/js/bid.js'  %}" ></script>
+ </body>
+
+</html>

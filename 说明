@@ -1,0 +1,28 @@
+1. 爬取网站的基本框架使用的是scrapy框架
+2. 数据库存取，使用了twist的mysql的异步执行
+3. 数据的提取，主要使用了xpath和css的提取，使用item_loader机制来进行字段的提取，然后再item类里面对数据进行初始的处理，得到精确的数据
+4. 突破user-agent的代理，。反之在爬取的过程中被禁止，只要使用了 fake-useragent插件，很好用的
+5. 突破本机ip被禁止，使用了西刺代理，主要是自己写一个爬虫，爬取西刺的ip，然后进行存入数据库，使用了requests库和scrapy.selector
+
+
+
+爬取网站：
+1. 中国国际招标网 http://www.chinabidding.com/search/proj.htm
+2. 北京招标网  https://www.bjggzyfw.gov.cn/cmsbj/jyxxggjtbyqs/index.html
+3. 上海招标网 http://shanghai.bidchance.com/tspt_310000_0_02_0_1.html
+4. 江苏招标网  http://www.jstba.org.cn/Home/NewsList.aspx?newstype=1/
+5. 浙江招标网  http://zhejiang.bidchance.com/tsp_330000_0_01_0_1.html
+
+发现了，其实上海和浙江的省份都是来自 招标网 http://www.bidchance.com/freesearch.do?&filetype=&channel=gonggao&currentpage=1&searchtype=&queryword=&displayStyle=&pstate=&field=&leftday=&province=&bidfile=&project=&heshi=&recommend=&field=&jing=&starttime=&endtime=&attachment=
+6. 河北招标网 http://www.hebeibidding.com.cn/ 没有任何新信息
+7. 天津招标网 http://tianjin.okcis.cn/sww/ (还没写)
+
+页面显示：
+ 1. 登录注册，使用了django自带的验证方式，可以将用户信息存入数据表，直接 可以用命令  django makemigration  生成迁移文件后 
+ django migrate执行，生成数据表，页面使用了bootstap+css+html+js的形式，以bootstrap为基本的框架搭建，有login.html和register.html两个文件
+ 2. 登录成功后：进行重定向到index的页面，这里实现了全文检索
+ 
+ 全文检索：
+ 1. 主要使用了elasticsearch的模糊查询，其中elasticsearch的的head是一个elasticsearch的可视化页面，
+ 主要还是通过配置item+pipeline将数据保存到elasticsearch的而哭，在使用其内置的分词方法 ik_max_word 进行title和content的分词没实现全文检索
+ 2. 配置页面显示出来

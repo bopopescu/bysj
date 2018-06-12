@@ -1,0 +1,57 @@
+#search-front{
+    background-color: #0f0f0f;
+}
+.score{
+    font-size: 12px;
+}
+.keyword{
+    color: #cc1111;
+}
+.plt-img{
+    height: 350px;
+    width: 430px;
+}
+.sortpage{
+    height:20px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.dateshow{
+    color: white;
+}
+#starttime{
+    height: 35px;
+}
+#endtime{
+    height:35px;
+}
+.contentItem{
+    padding-left: 12px;
+}
+.result{
+    padding-left: 12px;
+}
+.sortpage{
+    padding-left: 12px;
+}
+.hotsearch{
+    padding-left: 10px;
+    font-size: 20px;
+    color: blue;
+}
+.list-show{
+    list-style: none;
+    /*font-size: 18px;*/
+}
+.hot-title{
+    padding-left: 20px;
+}
+#trendfold{
+    width: 380px;
+}
+#trendzhu{
+     width: 380px;
+}
+#pdf{
+     width: 380px;
+}

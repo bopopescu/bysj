@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>补全搜索提示吗</title>
+</head>
+<body>
+   <form method="post" action="" class="form-search" >
+    <input type="text" class="searchInput" name="search" id="search"/>
+    <input type="submit" class="searchButton" value="搜索"/>
+   </form>
+ {% for hit in all_hits %}
+    <div class= "resultItem">
+    <a href="{{hit.url}}">{{hit.title}}</a><span>{{hit.publish_date}}</span>
+    <span>{{hit.score}}</span>
+    <span>{{hit.content}}</span>
+    </div>
+{% endfor %}
+</body>
+</html>
+

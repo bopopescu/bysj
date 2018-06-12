@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  {% load staticfiles %}
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>招标信息</title>
+  <meta name="description" content="Source code generated using layoutit.com" />
+  <meta name="author" content="LayoutIt!" />
+  <link rel="stylesheet" href="{% static '/css/bid.css' %} " />
+  <link rel="stylesheet" href="{% static '/bootstrap/css/bootstrap.min.css' %}" />
+  <!--<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />-->
+  <!--<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous" />-->
+  <!--<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>-->
+  <script src="{% static '/bootstrap/js/bootstrap.min.js'  %}"></script>
+ </head>
+ <body>
+  <div class="row">
+   <div class="col-md-12">
+    <div class="navbar navbar-default" role="navigation" id="search-front">
+     <div class="navbar-header">
+      <a href="" class="navbar-brand">招标信息网</a> 　
+     </div>
+     <form action="" method = "post" class="navbar-form navbar-left" rol="search">
+      <div class="form-group">
+       <select class="form-control" name="province">
+              {% for prov in provinces %}
+              <option>
+                  {{ prov.province_name }}
+              </option>
+              {% endfor %}}
+          </select>
+          <select class="form-control" name="industry">
+              {% for indust in industrylist %}
+              <option>
+                  {{ indust.industry_name }}
+              </option>
+              {% endfor %}}
+          </select>
+       <input type="text" class="form-control" id="inputtable" name="search" value="{{ key_word }}" list="datalist" />
+       <datalist id="datalist">
+       </datalist>
+      </div>
+      <button type="submit" class="btn btn-default">搜索</button>
+      <button class="btn btn-default"><a href="index.html" class="logout">注销</a></button>
+     </form>
+
+    </div>
+    <div class="row">
+     <div class="col-md-8">
+      <span class="result">共找到{{ total_nums }}条数据</span>
+      <!--<span class="totalpage">共{{page_nums}}页</span>-->
+      <span class="last_seconds"> 共花费{{ last_seconds }}秒</span>
+      {% for item in all_hits %}
+         <div class="contentItem">
+          <h3>
+              <a href="/static/zbfile/{{ item.titleurl  }}.pdf">
+                     {% autoescape off %}{{ item.title }}{% endautoescape %}
+              </a>
+              <span class="score" >得分：{{ item.score }}</span>
+          </h3>
+          <p> {% autoescape off %} {{ item.content }} {% endautoescape %} </p>
+          <span class="f1">来源于：<a href="{{ item.url }}">{{ item.url }}</a></span>
+          <span calss="f2">发布时间：{{ item.publish_date }}</span>
+         </div>
+     {% endfor %}
+      <!--<nav>-->
+       <!--<ul class="pagination">-->
+        <!--<li class="page-item"> <a class="page-link" href="#">首页</a> </li>-->
+        <!--<li class="page-item"> <a class="page-link" href="#">1</a> </li>-->
+        <!--<li class="page-item"> <a class="page-link" href="#">2</a> </li>-->
+        <!--<li class="page-item"> <a class="page-link" href="#">3</a> </li>-->
+        <!--<li class="page-item"> <a class="page-link" href="#">4</a> </li>-->
+        <!--<li class="page-item"> <a class="page-link" href="#">5</a> </li>-->
+        <!--<li class="page-item"> <a class="page-link" href="#">下一页</a> </li>-->
+       <!--</ul>-->
+
+      <!--</nav>-->
+     <div class="sortpage">
+         <span>共有{{ page_nums }}</span>
+         <a href="?p={{page|add:-1}}&q={{ key_word }}">上一页</a>
+         <span >现在是{{page}}/{{page_nums}}</span>
+         <a href="?p={{page|add:1}}&q={{ key_word }}">下一页</a>
+     </div>
+     </div>
+     <div class="col-md-4">
+      <h4>行业趋势变化图</h4>
+      <img src="{% static '/pic/a.jpg'%}" class="plt-img"/>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="{% static '/js/jquery-1.11.1.min.js'  %}"></script>
+  <script src="{% static '/js/pagination.js'  %}"></script>
+  <script type="text/javascript" >
+     $("#inputtable").bind('input propertychange ', function(){
+        var searchText=$(this).val();
+        //如果当前搜索内容为空，无须进行查询
+        var temphtml = ""
+        $.ajax({
+            cache:false,
+            type:"get",
+            dataType:"json",
+            url:"/bid/suggest.html?q="+searchText,
+            // data:"search="+searchText,
+            async:true,
+            dataType: 'json',
+            success: function(data){
+                 for(var i=0;i < data.length;i++){
+                     temphtml += '<option>'+data[i]+'</option>'
+                 }
+                 $("#datalist").html("")
+                 $("#datalist").append(temphtml)
+                if(data.length == 0){
+                     $("#datalist").hide()
+                }else {
+                    $("#datalist").show()
+                }
+            }
+        });
+    });
+    </script>
+ </body>
+
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head></head>
+ <body>
+   {% load staticfiles %}
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>招标信息网</title>
+  <!-- CSS -->
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500" />
+  <!--<link rel="stylesheet" href="/static/bootstrap/css/bootstrap.min.css">-->
+  <link rel="stylesheet" href="{% static '/bootstrap/css/bootstrap.min.css' %}" />
+  <link rel="stylesheet" href="{% static '/font-awesome/css/font-awesome.min.css' %}" />
+  <link rel="stylesheet" href="{% static '/css/form-elements.css' %}" />
+  <link rel="stylesheet" href="{% static '/css/style.css' %}" />
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+  <!-- Favicon and touch icons -->
+  <link rel="shortcut icon" href="{% static '/ico/favicon.png' %}" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{% static '/ico/apple-touch-icon-144-precomposed.png'  %}" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{% static '/ico/apple-touch-icon-114-precomposed.png'  %}" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{% static '/ico/apple-touch-icon-72-precomposed'  %}" />
+  <link rel="apple-touch-icon-precomposed" href="{% static '/ico/apple-touch-icon-57-precomposed.png'  %}" />
+  <!-- Top content -->
+  <div class="top-content">
+   <div class="inner-bg">
+    <div class="container">
+     <div class="row">
+      <div class="col-sm-8 col-sm-offset-2 text">
+       <h1><strong>最全的招标信息网</strong></h1>
+       <div class="description">
+        <!--<p>-->
+        <!--This is a free responsive login form made with Bootstrap.-->
+        <!--Download it on <a href="#"><strong>AZMIND</strong></a>, customize and use it as you like!-->
+        <!--</p>-->
+       </div>
+      </div>
+     </div>
+     <div class="row">
+      <div class="col-sm-6 col-sm-offset-3 form-box">
+       <div class="form-top">
+        <div class="form-top-left">
+         <h3>欢迎登录招标信息网</h3>
+         <p>请输入你的账号和密码进行登录</p>
+        </div>
+        <div class="form-top-right">
+         <i class="fa fa-lock"></i>
+        </div>
+       </div>
+       <div class="form-bottom">
+        <form role="form" action="" method="post" class="login-form">
+         <div class="form-group">
+          <label class="sr-only" for="form-username">用户名</label>
+          <input type="text" placeholder="输入用户名" name="account" class="form-username form-control" id="form-username" />
+         </div>
+         <div class="form-group">
+          <label class="sr-only" for="form-password">密码</label>
+          <input type="password" placeholder="输入密码" name="password" class="form-password form-control" id="form-password" />
+         </div>
+         <button type="submit" class="btn">登录</button>
+         <div class="re-login">
+          还没注册点
+          <a href="/login/register.html">这里</a>
+         </div>
+        </form>
+       </div>
+      </div>
+     </div>
+     <!--<div class="row">-->
+     <!--<div class="col-sm-6 col-sm-offset-3 social-login">-->
+     <!--<h3>...or login with:</h3>-->
+     <!--<div class="social-login-buttons">-->
+     <!--<a class="btn btn-link-2" href="#">-->
+     <!--<i class="fa fa-facebook"></i> Facebook-->
+     <!--</a>-->
+     <!--<a class="btn btn-link-2" href="#">-->
+     <!--<i class="fa fa-twitter"></i> Twitter-->
+     <!--</a>-->
+     <!--<a class="btn btn-link-2" href="#">-->
+     <!--<i class="fa fa-google-plus"></i> Google Plus-->
+     <!--</a>-->
+     <!--</div>-->
+     <!--</div>-->
+    </div>
+   </div>
+  </div>
+  <!-- Javascript -->
+  <script src="{% static '/js/jquery-1.11.1.min.js'  %}"></script>
+  <script src="{% static '/bootstrap/js/bootstrap.min.js'  %}"></script>
+  <script src="{% static '/js/jquery.backstretch.min.js'  %}"></script>
+  <script src="{% static '/js/scripts.js'  %}"></script>
+  <!--[if lt IE 10]>
+            <script src="{% static '/js/placeholder.js'  %}"></script>
+        <![endif]-->
+ </body>
+</html>

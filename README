@@ -1,0 +1,7 @@
+主要爬取 http://www.chinabidding.com/search/proj.htm 中国招标网的招标公告
+形成一个推荐，因为当下招标信息比较散，为了给用户提供良好的推荐
+
+策略:   1. 数据提取
+        2. user-agent如何使用
+        3. ip代理如何使用
+   

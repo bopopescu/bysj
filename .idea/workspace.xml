@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/bid_spider/bid_spider/spiders/getbid.py" line="81" />
+    <bookmark url="file://$PROJECT_DIR$/bid_spider/bid_spider/tools/crawl_xici_ip.py" line="83" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d097a95-075a-45a4-bbfc-eb73b5978ded" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/showIMAGE.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Redis-x64-3.2.100/dump.rdb" afterPath="$PROJECT_DIR$/Redis-x64-3.2.100/dump.rdb" />
+      <change beforePath="$PROJECT_DIR$/bid_show/adminmanage/urls.py" afterPath="$PROJECT_DIR$/bid_show/adminmanage/urls.py" />
+      <change beforePath="$PROJECT_DIR$/bid_show/adminmanage/views.py" afterPath="$PROJECT_DIR$/bid_show/adminmanage/views.py" />
+      <change beforePath="$PROJECT_DIR$/bid_show/bid/views.py" afterPath="$PROJECT_DIR$/bid_show/bid/views.py" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/css/bid.css" afterPath="$PROJECT_DIR$/bid_show/static/css/bid.css" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/css/morris.css" afterPath="$PROJECT_DIR$/bid_show/static/css/morris.css" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/pic/a.jpg" afterPath="$PROJECT_DIR$/bid_show/static/pic/a.jpg" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/pic/b.jpg" afterPath="$PROJECT_DIR$/bid_show/static/pic/b.jpg" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/pic/word.png" afterPath="$PROJECT_DIR$/bid_show/static/pic/word.png" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/17#住宅楼；11#住宅楼等7项资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/17#住宅楼；11#住宅楼等7项资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/18#住宅楼等3项资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/18#住宅楼等3项资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/2013-2104年城乡生活污水收集主管网延伸工程（尚湖镇大河工业园）.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/2013-2104年城乡生活污水收集主管网延伸工程（尚湖镇大河工业园）.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/2014年背后街巷整治改造工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/2014年背后街巷整治改造工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/2014年背后街巷整治改造工程的中标公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/2014年背后街巷整治改造工程的中标公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/2018年绿地节水改造项目.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/2018年绿地节水改造项目.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/2019年世园会北京室外展园工程建设项目(施工）.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/2019年世园会北京室外展园工程建设项目(施工）.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/4-1厂房等30项（工业厂房及配套设施项目）外装幕墙工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/4-1厂房等30项（工业厂房及配套设施项目）外装幕墙工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/9.7兆瓦分布式光伏发电项目.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/9.7兆瓦分布式光伏发电项目.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/S227（莫干路-南三环路）市政道路完善监理工程（重发公告）.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/S227（莫干路-南三环路）市政道路完善监理工程（重发公告）.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/TX2013-21、TX2013-22幅地块上海花园房地产开发项目.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/TX2013-21、TX2013-22幅地块上海花园房地产开发项目.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/XDG-2010-35号地块开发项目.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/XDG-2010-35号地块开发项目.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/XDG-2011-42号地块内新建润阳路工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/XDG-2011-42号地块内新建润阳路工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/[ID1129-1]海淀区学校后勤管理中心翠微路22号院地下管线及场地改造工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/[ID1129-1]海淀区学校后勤管理中心翠微路22号院地下管线及场地改造工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/世纪新城－祥和苑.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/世纪新城－祥和苑.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/东亭路（上海路-滨河路）人行道工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/东亭路（上海路-滨河路）人行道工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/东郊农场保障房项目（朝阳区崔各庄北路、崔各庄牛场路、电子城西区北扩规划六路）道路工程及雨水管线工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/东郊农场保障房项目（朝阳区崔各庄北路、崔各庄牛场路、电子城西区北扩规划六路）道路工程及雨水管线工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/云西110kV输变电工程（变电站工程）资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/云西110kV输变电工程（变电站工程）资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/云阳镇城河路西侧道路建设工程项目.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/云阳镇城河路西侧道路建设工程项目.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/住建局2014年道路工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/住建局2014年道路工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/农光里小区26#、36#、35#楼-室外市政工程(二次招标）资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/农光里小区26#、36#、35#楼-室外市政工程(二次招标）资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/凤凰岭旅游设施一期、二期土地一级开发项目道路、桥梁及市政综合管线工程招标公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/凤凰岭旅游设施一期、二期土地一级开发项目道路、桥梁及市政综合管线工程招标公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/凤凰岭旅游设施一期、二期土地一级开发项目道路、桥梁及市政综合管线工程（第二标段）资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/凤凰岭旅游设施一期、二期土地一级开发项目道路、桥梁及市政综合管线工程（第二标段）资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/利国镇马山安置小区一期（2#、3#、地库及商业12#楼）工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/利国镇马山安置小区一期（2#、3#、地库及商业12#楼）工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/办公楼内部装修改造项目.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/办公楼内部装修改造项目.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/北京南海子麋鹿苑博物馆科普楼消防改造工程项目资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/北京南海子麋鹿苑博物馆科普楼消防改造工程项目资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/北京市海淀区上庄中心小学食堂改造工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/北京市海淀区上庄中心小学食堂改造工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/北京市社科院低氮锅炉采购与安装项目资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/北京市社科院低氮锅炉采购与安装项目资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/北京市轨道交通19号线一期工程供电系统及综合监控系统设备安装工程招标公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/北京市轨道交通19号线一期工程供电系统及综合监控系统设备安装工程招标公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/北京新机场安置房项目（榆垡组团）盛平街（榆垡路-榆泰路）道路、桥梁及排水、给水、再生水、电力、燃气管线工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/北京新机场安置房项目（榆垡组团）盛平街（榆垡路-榆泰路）道路、桥梁及排水、给水、再生水、电力、燃气管线工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/北京新机场西塔台工程多联机空调专业分包项目资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/北京新机场西塔台工程多联机空调专业分包项目资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/北京新机场配套供油工程综合生产调度中心工程室内精装修项目资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/北京新机场配套供油工程综合生产调度中心工程室内精装修项目资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/北京理工大学附属中学紫竹院校区05-07、09号楼外窗更换，04、07、09、10号楼屋面防水改造，05号楼三层宿舍改造招标公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/北京理工大学附属中学紫竹院校区05-07、09号楼外窗更换，04、07、09、10号楼屋面防水改造，05号楼三层宿舍改造招标公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/北京经济技术开发区路东区G2A1、G2R1、G2F1地块及地下车库项目资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/北京经济技术开发区路东区G2A1、G2R1、G2F1地块及地下车库项目资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/北京西站出站系统电力隐患整改增容项目招标公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/北京西站出站系统电力隐患整改增容项目招标公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/北京警察学院处研楼、外研楼维修及院内单体外墙维护工程一期项目资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/北京警察学院处研楼、外研楼维修及院内单体外墙维护工程一期项目资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/南环东路（夏林路-永平大道）工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/南环东路（夏林路-永平大道）工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/南通高新区2014年二期市政道路工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/南通高新区2014年二期市政道路工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/危仓老库维修改造工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/危仓老库维修改造工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/句容市天王镇浦溪花园四期工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/句容市天王镇浦溪花园四期工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/司徒庙路西延工程(新甘泉路—甘八线).pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/司徒庙路西延工程(新甘泉路—甘八线).pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/响水锦绣苑景观灯等工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/响水锦绣苑景观灯等工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/圩里新村二期拆迁安置房工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/圩里新村二期拆迁安置房工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/大兴区瀛海西区C07-2地块经济适用房一标段建筑机电安装工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/大兴区瀛海西区C07-2地块经济适用房一标段建筑机电安装工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/大兴区瀛海西区C07-2地块经济适用房一标段消防工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/大兴区瀛海西区C07-2地块经济适用房一标段消防工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/大兴区瀛海西区C07-2地块经济适用房二标段建筑机电安装工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/大兴区瀛海西区C07-2地块经济适用房二标段建筑机电安装工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/大城子35kV变电站工程招标公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/大城子35kV变电站工程招标公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/太仓市港城组团污水处理厂改扩建工程监理的中标公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/太仓市港城组团污水处理厂改扩建工程监理的中标公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/头桥中学校安宿舍楼加固工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/头桥中学校安宿舍楼加固工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/如东县岔河镇小学操场改造工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/如东县岔河镇小学操场改造工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/如东县岔河镇岔东小学教学楼加固工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/如东县岔河镇岔东小学教学楼加固工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/宝应县世纪新城－祥和苑.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/宝应县世纪新城－祥和苑.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/宝应经济开发区金湾农民安置小区道路、雨污水管网及室外消防管网等工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/宝应经济开发区金湾农民安置小区道路、雨污水管网及室外消防管网等工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/宣武中医医院市政热力接入工程项目资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/宣武中医医院市政热力接入工程项目资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/宿豫区2013年度中小学运动场工程第二标段.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/宿豫区2013年度中小学运动场工程第二标段.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/常州市江边污水处理厂管网扩建工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/常州市江边污水处理厂管网扩建工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/常熟市沙家浜中学教学用房改扩建绿化景观工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/常熟市沙家浜中学教学用房改扩建绿化景观工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/常熟市碧溪新区浒浦顾巷、浒东新村小区、乔家浜新村、桐坝新村一、二区小区污水收水工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/常熟市碧溪新区浒浦顾巷、浒东新村小区、乔家浜新村、桐坝新村一、二区小区污水收水工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/平谷区夏各庄镇新城10KV电力配套工程（一标段）资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/平谷区夏各庄镇新城10KV电力配套工程（一标段）资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/延寿镇文化活动中心改造建设项目二期工程招标公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/延寿镇文化活动中心改造建设项目二期工程招标公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/延庆区延庆新城YQ00-0300-0004等地块（世园会一期）建设项目（园区综合管理中心项目、综合数字中心、0049地块住宅）园林景观（施工）.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/延庆区延庆新城YQ00-0300-0004等地块（世园会一期）建设项目（园区综合管理中心项目、综合数字中心、0049地块住宅）园林景观（施工）.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/开源古楚名苑项目.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/开源古楚名苑项目.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/彩超国际招标公告(1).pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/彩超国际招标公告(1).pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/房山区轨道交通房山线北广阳城站土地一级开发项目市政道路工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/房山区轨道交通房山线北广阳城站土地一级开发项目市政道路工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/扬中市八桥中心小学教学楼.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/扬中市八桥中心小学教学楼.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/扬中市油坊中心小学教学综合楼桩基工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/扬中市油坊中心小学教学综合楼桩基工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/扬州市内河搜救中心建设项目.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/扬州市内河搜救中心建设项目.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学保障条件-2018年基础设施改造定额管理项目2-施工分项12-逸夫图书馆改扩建工程配套外电源工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学保障条件-2018年基础设施改造定额管理项目2-施工分项12-逸夫图书馆改扩建工程配套外电源工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学保障条件-2018年基础设施改造定额管理项目2-施工分项16-城市建设学部教学用房改造资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学保障条件-2018年基础设施改造定额管理项目2-施工分项16-城市建设学部教学用房改造资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学保障条件-2018年基础设施改造定额管理项目2-施工分项8-学生公寓、教学楼消防报警系统改造工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学保障条件-2018年基础设施改造定额管理项目2-施工分项8-学生公寓、教学楼消防报警系统改造工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学保障条件-基础设施改造-北校区基础设施改造资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学保障条件-基础设施改造-北校区基础设施改造资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学条件-基础设施改造-北校2号教学楼、3号教学楼、4号教学楼、供热中心（22号楼）屋面维修工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学条件-基础设施改造-北校2号教学楼、3号教学楼、4号教学楼、供热中心（22号楼）屋面维修工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学条件-基础设施改造-南校综合楼屋面改造工程招标公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/改善办学条件-基础设施改造-南校综合楼屋面改造工程招标公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/新坝中学教学楼校安加固工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/新坝中学教学楼校安加固工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/新建再生聚酯瓶片回收综合利用项目.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/新建再生聚酯瓶片回收综合利用项目.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/新建纬六路项目.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/新建纬六路项目.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/昌平区未来科学城垃圾气力管道收集输送工程-S1、S2、S3中央收集站工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/昌平区未来科学城垃圾气力管道收集输送工程-S1、S2、S3中央收集站工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/昌平区未来科学城垃圾气力管道收集输送工程（监理）资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/昌平区未来科学城垃圾气力管道收集输送工程（监理）资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/机场南路（雪梅路-京杭运河）道路工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/机场南路（雪梅路-京杭运河）道路工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/李桥镇消防站建设工程招标公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/李桥镇消防站建设工程招标公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/标段三（713、714）3-1（301）游乐设施等12项（北京环球影城主题公园）资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/标段三（713、714）3-1（301）游乐设施等12项（北京环球影城主题公园）资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/标段六（711）1-1（101）北行政楼等14项（北京环球影城主题公园）资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/标段六（711）1-1（101）北行政楼等14项（北京环球影城主题公园）资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/标段四（715）5-1（501A、501B、502）商业（零售）、餐饮等11项（北京环球影城主题公园）资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/标段四（715）5-1（501A、501B、502）商业（零售）、餐饮等11项（北京环球影城主题公园）资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/校内专项-南浴室改造工程招标公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/校内专项-南浴室改造工程招标公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/武进区纺织工业园污水管网工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/武进区纺织工业园污水管网工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/民航运行管理中心和气象中心工程及民航情报管理中心工程幕墙专业分包工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/民航运行管理中心和气象中心工程及民航情报管理中心工程幕墙专业分包工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/江南路工程施工监理（k1+900~k3+740）.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/江南路工程施工监理（k1+900~k3+740）.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/污水处理池改造.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/污水处理池改造.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/沪宁高速公路连接线苜蓿园大街匝道桥等四座桥梁消险加固工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/沪宁高速公路连接线苜蓿园大街匝道桥等四座桥梁消险加固工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/沭阳县原人民医院地块安置小区工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/沭阳县原人民医院地块安置小区工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/沭阳县沭河中学新建综合楼工程招标.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/沭阳县沭河中学新建综合楼工程招标.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/沭阳县虞姬生态园应急避难场所工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/沭阳县虞姬生态园应急避难场所工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/法源寺文保区保护提升项目-市政管线及道路改造工程（二标段）资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/法源寺文保区保护提升项目-市政管线及道路改造工程（二标段）资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/法源寺文保区保护提升项目-市政管线及道路改造工程（二标段）（监理）资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/法源寺文保区保护提升项目-市政管线及道路改造工程（二标段）（监理）资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/涟水县北大路道路及雨水管网改造工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/涟水县北大路道路及雨水管网改造工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/淮安市东城江南D1-D15窗户制作及安装工程（二次）.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/淮安市东城江南D1-D15窗户制作及安装工程（二次）.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/淮安市生态新城西片区小学项目施工监理.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/淮安市生态新城西片区小学项目施工监理.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/淮安空港小区商业配套用房工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/淮安空港小区商业配套用房工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/清明桥历史文化街区保护修复二期工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/清明桥历史文化街区保护修复二期工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/溧阳市城区道路配套排水管网二期工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/溧阳市城区道路配套排水管网二期工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/畅春新园学生宿舍浴室改造工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/畅春新园学生宿舍浴室改造工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/看守所驻所科技法庭工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/看守所驻所科技法庭工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/石景山区衙门口棚户区改造土地开发项目回迁安置房1612-731地块资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/石景山区衙门口棚户区改造土地开发项目回迁安置房1612-731地块资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/联谊南苑建设工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/联谊南苑建设工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/航天城北区环境整治和绿化改造工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/航天城北区环境整治和绿化改造工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/苏州市工业园区建屋30号地块二期工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/苏州市工业园区建屋30号地块二期工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/西安路工业园区朝阳路、诚意路面改造工程.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/西安路工业园区朝阳路、诚意路面改造工程.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/连云港市昊海大厦.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/连云港市昊海大厦.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/通州台湖公租房项目三标段防水工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/通州台湖公租房项目三标段防水工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/首都医科大学附属北京佑安医院配电室增容工程资格预审公告.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/首都医科大学附属北京佑安医院配电室增容工程资格预审公告.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/static/zbfile/高邮市残疾人康复中心工程项目.pdf" afterPath="$PROJECT_DIR$/bid_show/static/zbfile/高邮市残疾人康复中心工程项目.pdf" />
+      <change beforePath="$PROJECT_DIR$/bid_show/templates/adminmanage/adminindex.html" afterPath="$PROJECT_DIR$/bid_show/templates/adminmanage/adminindex.html" />
+      <change beforePath="$PROJECT_DIR$/bid_show/templates/bid/index.html" afterPath="$PROJECT_DIR$/bid_show/templates/bid/index.html" />
+      <change beforePath="$PROJECT_DIR$/bid_show/templates/login/register.html" afterPath="$PROJECT_DIR$/bid_show/templates/login/register.html" />
+      <change beforePath="$PROJECT_DIR$/bid_spider/bid_spider/items.py" afterPath="$PROJECT_DIR$/bid_spider/bid_spider/items.py" />
+      <change beforePath="$PROJECT_DIR$/bid_spider/bid_spider/pipelines.py" afterPath="$PROJECT_DIR$/bid_spider/bid_spider/pipelines.py" />
+      <change beforePath="$PROJECT_DIR$/bid_spider/main.py" afterPath="$PROJECT_DIR$/bid_spider/main.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/bysj$models.coverage" NAME="models Coverage Results" MODIFIED="1524571865769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_show/bid" />
+    <SUITE FILE_PATH="coverage/bysj$showIMAGE.coverage" NAME="showIMAGE Coverage Results" MODIFIED="1526300133895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bysj$Twisted_Trial_in_test_wordcloud_py.coverage" NAME="Twisted Trial in test_wordcloud.py Coverage Results" MODIFIED="1525936488669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_show" />
+    <SUITE FILE_PATH="coverage/bysj$Twisted_Trial_in_test_re_py.coverage" NAME="Twisted Trial in test_re.py Coverage Results" MODIFIED="1523324517666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_spider/bid_spider/test" />
+    <SUITE FILE_PATH="coverage/bysj$crawlall.coverage" NAME="crawlall Coverage Results" MODIFIED="1523588526489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_spider/bid_spider/command" />
+    <SUITE FILE_PATH="coverage/bysj$crawl_xici_ip.coverage" NAME="crawl_xici_ip Coverage Results" MODIFIED="1523189106714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_spider/bid_spider/tools" />
+    <SUITE FILE_PATH="coverage/bysj$tests.coverage" NAME="tests Coverage Results" MODIFIED="1525935795936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_show/adminmanage" />
+    <SUITE FILE_PATH="coverage/bysj$views.coverage" NAME="views Coverage Results" MODIFIED="1525935895557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_show/bid" />
+    <SUITE FILE_PATH="coverage/bysj$es_type.coverage" NAME="es_type Coverage Results" MODIFIED="1525147320698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_spider/bid_spider/modes" />
+    <SUITE FILE_PATH="coverage/bysj$manage.coverage" NAME="manage Coverage Results" MODIFIED="1527138014122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_show" />
+    <SUITE FILE_PATH="coverage/bysj$tests__1_.coverage" NAME="tests (1) Coverage Results" MODIFIED="1525933699856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_show/bid" />
+    <SUITE FILE_PATH="coverage/bysj$get_next_pages.coverage" NAME="get_next_pages Coverage Results" MODIFIED="1521640541160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_spider/bid_spider/utils" />
+    <SUITE FILE_PATH="coverage/bysj$getprovince__1_.coverage" NAME="getprovince (1) Coverage Results" MODIFIED="1523188327541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_spider/bid_spider/getotherinfo" />
+    <SUITE FILE_PATH="coverage/bysj$main.coverage" NAME="main Coverage Results" MODIFIED="1526440221790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_spider" />
+    <SUITE FILE_PATH="coverage/bysj$crawlall__1_.coverage" NAME="crawlall (1) Coverage Results" MODIFIED="1523937948613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_spider/bid_spider/commands" />
+    <SUITE FILE_PATH="coverage/bysj$views__1_.coverage" NAME="views (1) Coverage Results" MODIFIED="1525933642380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_show/adminmanage" />
+    <SUITE FILE_PATH="coverage/bysj$Twisted_Trial_in_test_htmltopdf_py.coverage" NAME="Twisted Trial in test_htmltopdf.py Coverage Results" MODIFIED="1524662283656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_spider/bid_spider/test" />
+    <SUITE FILE_PATH="coverage/bysj$getprovince.coverage" NAME="getprovince Coverage Results" MODIFIED="1523182667216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bid_spider/bid_spider/spiders" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bid_spider/bid_spider/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4424">
+              <caret line="168" column="37" lean-forward="false" selection-start-line="168" selection-start-column="37" selection-end-line="168" selection-end-column="37" />
+              <folding>
+                <marker date="1526979215683" expanded="true" signature="4381:4810" ph="insert into bid_table... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="es_type.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bid_spider/bid_spider/modes/es_type.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bid_show/templates/bid/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-672">
+              <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bid_spider/bid_spider/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2912">
+              <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bid_spider/bid_spider/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1148">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http://www.chinabidding.com/bidDetail/231542895.html</find>
+      <find>http://www.chinabidding.com/bidDetail/231543661.html</find>
+      <find>231545408</find>
+      <find>231545132</find>
+      <find>招标项目编号</find>
+      <find>http://www.chinabidding.com/bidDetail/231550590.html</find>
+      <find>zoneCode</find>
+      <find>下一</find>
+      <find>inner-bg</find>
+      <find>container</find>
+      <find>Login to our site</find>
+      <find>backgrounds</find>
+      <find>background</find>
+      <find>backstretch</find>
+      <find>DEFAULT_REQUEST</find>
+      <find>ana</find>
+      <find>/static</find>
+      <find>exe</find>
+      <find>POST</find>
+      <find>{% csrf_token %}</find>
+      <find>es</find>
+      <find>execute</find>
+      <find>my_suggest</find>
+      <find>你</find>
+      <find>contextPath</find>
+      <find>js-typeahead</find>
+      <find>data</find>
+      <find>em</find>
+      <find>metisMenu</find>
+      <find>Area Chart Example</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bid_spider/bid_spider/spiders/bjzb.py" />
+        <option value="$PROJECT_DIR$/bid_spider/bid_spider/modes/es_type.py" />
+        <option value="$PROJECT_DIR$/Lib/site-packages/elasticsearch_dsl/document.py" />
+        <option value="$PROJECT_DIR$/bid_show/templates/bid/def.html" />
+        <option value="$PROJECT_DIR$/bid_show/templates/login/login.html" />
+        <option value="$PROJECT_DIR$/bid_spider/bid_spider/test/test_htmltopdf.py" />
+        <option value="$PROJECT_DIR$/bid_spider/bid_spider/spiders/getbid.py" />
+        <option value="$PROJECT_DIR$/bid_spider/bid_spider/tools/HTML_Convert_To_pdf.py" />
+        <option value="$PROJECT_DIR$/bid_spider/bid_spider/spiders/bdczb.py" />
+        <option value="$PROJECT_DIR$/bid_show/templates/bid/search.html" />
+        <option value="$PROJECT_DIR$/bid_show/templates/bid/searchseggest.html" />
+        <option value="$PROJECT_DIR$/bid_show/templates/bid/suggestion.html" />
+        <option value="$PROJECT_DIR$/bid_show/templates/bid/suggest.html" />
+        <option value="$PROJECT_DIR$/bid_show/templates/bid/searchsuggest.html" />
+        <option value="$PROJECT_DIR$/bid_show/login/urls.py" />
+        <option value="$PROJECT_DIR$/bid_show/login/models.py" />
+        <option value="$PROJECT_DIR$/bid_show/static/bootstrap/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/bid_show/static/bootstrap/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/bid_spider/bid_spider/spiders/tjzb.py" />
+        <option value="$PROJECT_DIR$/bid_show/templates/bid/test.html" />
+        <option value="$PROJECT_DIR$/bid_spider/bid_spider/settings.py" />
+        <option value="$PROJECT_DIR$/bid_show/static/js/bid.js" />
+        <option value="$PROJECT_DIR$/bid_show/admin/urls.py" />
+        <option value="$PROJECT_DIR$/bid_show/admin/views.py" />
+        <option value="$PROJECT_DIR$/bid_show/templates/admin/admin.html" />
+        <option value="$PROJECT_DIR$/bid_show/bid_show/settings.py" />
+        <option value="$PROJECT_DIR$/bid_show/bid/urls.py" />
+        <option value="$PROJECT_DIR$/bid_show/templates/admin/adminlogin.html" />
+        <option value="$PROJECT_DIR$/bid_show/static/css/simple-line-icons.css" />
+        <option value="$PROJECT_DIR$/bid_show/templates/adminmanage/adminlogin.html" />
+        <option value="$PROJECT_DIR$/bid_spider/bid_spider/spiders/jszb.py" />
+        <option value="$PROJECT_DIR$/bid_show/adminmanage/models.py" />
+        <option value="$PROJECT_DIR$/bid_show/bid/models.py" />
+        <option value="$PROJECT_DIR$/bid_show/bid/tests.py" />
+        <option value="$PROJECT_DIR$/bid_show/bid_show/urls.py" />
+        <option value="$PROJECT_DIR$/bid_show/login/views.py" />
+        <option value="$PROJECT_DIR$/bid_show/adminmanage/tests.py" />
+        <option value="$PROJECT_DIR$/bid_show/adminmanage/test_wordcloud.py" />
+        <option value="$PROJECT_DIR$/bid_show/templates/adminmanage/test.html" />
+        <option value="$PROJECT_DIR$/bid_show/adminmanage/urls.py" />
+        <option value="$PROJECT_DIR$/bid_spider/main.py" />
+        <option value="$PROJECT_DIR$/bid_show/templates/login/register.html" />
+        <option value="$PROJECT_DIR$/bid_show/bid/views.py" />
+        <option value="$PROJECT_DIR$/bid_show/templates/bid/index.html" />
+        <option value="$PROJECT_DIR$/bid_spider/bid_spider/pipelines.py" />
+        <option value="$PROJECT_DIR$/bid_show/static/css/bid.css" />
+        <option value="$PROJECT_DIR$/bid_spider/bid_spider/items.py" />
+        <option value="$PROJECT_DIR$/bid_show/adminmanage/views.py" />
+        <option value="$PROJECT_DIR$/bid_show/templates/adminmanage/adminindex.html" />
+        <option value="$PROJECT_DIR$/bid_show/static/css/morris.css" />
+        <option value="$PROJECT_DIR$/showIMAGE.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/elasticsearch-head-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/kibana-5.1.2-windows-x86/node_modules" />
+    <handled-path value="$PROJECT_DIR$/kibana-5.1.2-windows-x86/optimize/bundles/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="476" />
+    <option name="y" value="6" />
+    <option name="width" value="1202" />
+    <option name="height" value="1004" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bysj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bysj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bysj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bysj" type="462c0819:PsiDirectoryNode" />
+              <item name="bid_show" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bysj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bysj" type="462c0819:PsiDirectoryNode" />
+              <item name="bid_show" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bysj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bysj" type="462c0819:PsiDirectoryNode" />
+              <item name="bid_show" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="bid" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pywork\bysj\bid_show\templates\login" />
+      <recent name="E:\pywork\bysj\bid_show\templates\bid" />
+      <recent name="E:\pywork\bysj\bid_show\login" />
+      <recent name="E:\pywork\bysj\bid_show\static\css" />
+      <recent name="E:\pywork\bysj\bid_show" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pywork\bysj\bid_show\static\css" />
+      <recent name="E:\pywork\bysj\bid_show\static\js" />
+      <recent name="E:\pywork\bysj\bid_show\static\img" />
+      <recent name="E:\pywork\bysj\bid_show\login" />
+      <recent name="E:\pywork\bysj\bid_show\templates\login" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bid_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bysj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bid_spider/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bid_show" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bysj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bid_show/manage.py" />
+      <option name="PARAMETERS" value="runserver 127.0.0.1:8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="showIMAGE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bysj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/showIMAGE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bid_show/bid" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bysj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bid_show/bid/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Twisted Trial in test_wordcloud.py" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bid_show" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bysj" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/bid_show/adminmanage/test_wordcloud.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.manage" />
+      <item index="1" class="java.lang.String" itemvalue="Python.views" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Twisted Trial in test_wordcloud.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.showIMAGE" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.manage" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.showIMAGE" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Twisted Trial in test_wordcloud.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d097a95-075a-45a4-bbfc-eb73b5978ded" name="Default" comment="" />
+      <created>1521263827017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521263827017</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Twisted_Trial_in_test_re_py - 2018.03.29 at 19h 11m 37s.xml">
+      <configuration name="Twisted Trial in test_re.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_test_re_py - 2018.04.08 at 14h 53m 17s.xml">
+      <configuration name="Twisted Trial in test_re.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_test_re_py - 2018.04.08 at 14h 54m 16s.xml">
+      <configuration name="Twisted Trial in test_re.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_test_re_py - 2018.04.08 at 14h 55m 19s.xml">
+      <configuration name="Twisted Trial in test_re.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_test_re_py - 2018.04.08 at 15h 06m 49s.xml">
+      <configuration name="Twisted Trial in test_re.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_test_re_py - 2018.04.08 at 15h 07m 18s.xml">
+      <configuration name="Twisted Trial in test_re.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_test_re_py - 2018.04.08 at 15h 11m 02s.xml">
+      <configuration name="Twisted Trial in test_re.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_test_re_py - 2018.04.10 at 09h 41m 59s.xml">
+      <configuration name="Twisted Trial in test_re.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_test_wordcloud_py - 2018.05.10 at 15h 08m 54s.xml">
+      <configuration name="Twisted Trial in test_wordcloud.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_test_wordcloud_py - 2018.05.10 at 15h 14m 49s.xml">
+      <configuration name="Twisted Trial in test_wordcloud.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33609468" sideWeight="0.5064586" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33491686" sideWeight="0.49354145" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.7664155" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21220303" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.010799136" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35023585" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bid_spider/bid_spider/test/test_re.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bid_spider/bid_spider/tools/crawl_xici_ip.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bid_spider/bid_spider/getotherinfo/getprovince.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bid_show/bid_show/settings.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bid_spider/bid_spider/spiders/getbid.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bid_show/adminmanage/views.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bid_spider/bid_spider/spiders/jszb.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bid_spider/bid_spider/spiders/jszb.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/bid_show/templates/bid/searchsuggest.html</url>
+          <line>29</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="189" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/twisted/internet/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="1248" column="0" lean-forward="false" selection-start-line="1248" selection-start-column="0" selection-end-line="1248" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/twisted/internet/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="671" column="0" lean-forward="false" selection-start-line="671" selection-start-column="0" selection-end-line="671" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/static/js/sb-admin-2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/static/js/morris-data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/static/js/morris.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/static/js/raphael.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/static/js/metisMenu.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/static/css/metisMenu.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/static/css/sb-admin-2.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/static/css/sb-admin-2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/adminmanage/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/bid/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5320">
+          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/adminmanage/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/adminmanage/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/bid_show/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/adminManager/apps.py" />
+    <entry file="file://$PROJECT_DIR$/bid_show/login/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/login/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-392">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/bid_show/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="40" column="7" lean-forward="false" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/bid/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/adminmanage/test_wordcloud.py" />
+    <entry file="file://$PROJECT_DIR$/bid_show/adminmanage/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/bid_show/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/django/core/handlers/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/templates/adminmanage/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/static/js/bid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/adminmanage/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/pytesseract/pytesseract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="172" column="4" lean-forward="false" selection-start-line="172" selection-start-column="4" selection-end-line="172" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/adminmanage/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python36/Lib/smtplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="259" column="0" lean-forward="false" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/encodings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/templates/login/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="82" column="57" lean-forward="false" selection-start-line="82" selection-start-column="57" selection-end-line="82" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/templates/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="61" column="43" lean-forward="true" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_spider/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/static/css/bid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="55" column="18" lean-forward="false" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_spider/bid_spider/tools/crawl_xici_ip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="41" column="19" lean-forward="false" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding>
+            <marker date="1523323782265" expanded="true" signature="990:1138" ph="insert into proxy_ip... " />
+            <marker date="1523323782265" expanded="true" signature="1357:1392" ph="delete from proxy_ip... " />
+            <marker date="1523323782265" expanded="true" signature="2298:2350" ph="SELECT ip,po... proxy_ip" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_spider/bid_spider/spiders/jszb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="55" column="50" lean-forward="true" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_spider/bid_spider/spiders/getbid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#398#967#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/login/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="36" column="41" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="36" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/bid/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2156">
+          <caret line="73" column="41" lean-forward="false" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/adminmanage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1652">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="e#2684#3628#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/static/css/morris.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/templates/adminmanage/adminindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="23" column="65" lean-forward="false" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showIMAGE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="72" column="12" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="72" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_spider/bid_spider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2912">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_spider/bid_spider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1148">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_spider/bid_spider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4424">
+          <caret line="168" column="37" lean-forward="false" selection-start-line="168" selection-start-column="37" selection-end-line="168" selection-end-column="37" />
+          <folding>
+            <marker date="1526979215683" expanded="true" signature="4381:4810" ph="insert into bid_table... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_spider/bid_spider/modes/es_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bid_show/templates/bid/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-672">
+          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
